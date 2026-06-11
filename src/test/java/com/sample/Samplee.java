@@ -17,6 +17,10 @@ System.out.println("login thrugh browser");
 		System.out.println("Login id is 345687");
 
 	}
+	private void loginIdProMx() {
+		System.out.println("Login id is 345687");
+
+	}
  public static void main(String[] args) {
 	
 }
